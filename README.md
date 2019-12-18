@@ -1,2 +1,2 @@
 # initiation_js
-initiation au langage de progammation javascript
+initiation au language de progammation javascript
